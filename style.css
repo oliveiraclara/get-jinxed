@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    height: 90px;
+    background-color: black;
+}
+.logo{
+    height: 90px;
+}
+.fotojinx{
+    align-self: center;
+    width: 1148px;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    background-color: black ;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.subtitulo{
+    padding: 50px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+.jinxlol{
+    padding: 50px;
+    width: 200px;
+}
+.jinxlol{
+    width: 200px;
+    padding: 50px;
+}
+.arcane{
+    width: 200px;
+    padding: 50px;
+}
+.mobile{
+    width: 200px;
+    padding: 50px;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 64px;
+    padding-bottom: 64px;
+}
